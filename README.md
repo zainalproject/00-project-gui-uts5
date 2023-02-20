@@ -51,3 +51,4 @@ Untuk mengunduh aplikasi ini silahkan pilih sesuai sistem operasi kamu :
 [![licensebuttons by-nc](https://licensebuttons.net/l/by-nc/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0)
 
 #### Terimakasih Telah Mengunjungi Repositoriku, Bye ;)
+##### Salam Skala Prioritas
